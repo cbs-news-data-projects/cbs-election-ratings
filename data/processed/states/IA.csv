@@ -1,0 +1,5 @@
+key,state,state_code,state_district,district,geo_id,rating,incumbent_party,is_battleground,is_key_race,dem_candidate,dem_pct,rep_candidate,rep_pct,other_candidates
+2026G-IA-G-H-2,Iowa,IA,IA02,2,1902,Lean Rep,REP,True,True,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
+2026G-IA-G-H-4,Iowa,IA,IA04,4,1904,Likely Rep,REP,False,False,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
+2026G-IA-G-H-1,Iowa,IA,IA01,1,1901,Toss Up,REP,True,True,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
+2026G-IA-G-H-3,Iowa,IA,IA03,3,1903,Toss Up,REP,True,True,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,

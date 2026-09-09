@@ -1,0 +1,4 @@
+key,state,state_code,state_district,district,geo_id,rating,incumbent_party,is_battleground,is_key_race,dem_candidate,dem_pct,rep_candidate,rep_pct,other_candidates
+2026G-NE-G-H-2,Nebraska,NE,NE02,2,3102,Lean Dem,REP,True,True,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
+2026G-NE-G-H-1,Nebraska,NE,NE01,1,3101,Likely Rep,REP,False,False,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
+2026G-NE-G-H-3,Nebraska,NE,NE03,3,3103,Likely Rep,REP,False,False,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
