@@ -1,4 +1,4 @@
 key,state,state_code,state_district,district,geo_id,rating,incumbent_party,is_battleground,is_key_race,dem_candidate,dem_pct,rep_candidate,rep_pct,other_candidates
-2026G-NM-G-H-2,New Mexico,NM,NM02,2,3502,Lean Dem,DEM,True,True,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
-2026G-NM-G-H-1,New Mexico,NM,NM01,1,3501,Likely Dem,DEM,False,False,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
-2026G-NM-G-H-3,New Mexico,NM,NM03,3,3503,Likely Dem,DEM,False,False,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
+2026G-NM-G-H-2,New Mexico,NM,NM02,02,3502,Lean Dem,DEM,True,True,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
+2026G-NM-G-H-1,New Mexico,NM,NM01,01,3501,Likely Dem,DEM,False,False,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
+2026G-NM-G-H-3,New Mexico,NM,NM03,03,3503,Likely Dem,DEM,False,False,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
