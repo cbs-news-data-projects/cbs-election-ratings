@@ -1,0 +1,36 @@
+key,state,state_code,rating,incumbent_party,is_battleground,is_key_race
+2026G-CO-G-S-0,Colorado,CO,Likely Dem,DEM,False,False
+2026G-DE-G-S-0,Delaware,DE,Likely Dem,DEM,False,False
+2026G-IL-G-S-0,Illinois,IL,Likely Dem,DEM,False,False
+2026G-MA-G-S-0,Massachusetts,MA,Likely Dem,DEM,False,False
+2026G-NJ-G-S-0,New Jersey,NJ,Likely Dem,DEM,False,False
+2026G-NM-G-S-0,New Mexico,NM,Likely Dem,DEM,False,False
+2026G-OR-G-S-0,Oregon,OR,Likely Dem,DEM,False,False
+2026G-RI-G-S-0,Rhode Island,RI,Likely Dem,DEM,False,False
+2026G-VA-G-S-0,Virginia,VA,Likely Dem,DEM,False,False
+2026G-MN-G-S-0,Minnesota,MN,Likely Dem,DEM,False,False
+2026G-NH-G-S-0,New Hampshire,NH,Lean Dem,DEM,True,True
+2026G-GA-G-S-0,Georgia,GA,Lean Dem,DEM,True,True
+2026G-MI-G-S-0,Michigan,MI,Toss Up,DEM,True,True
+2026G-NC-G-S-0,North Carolina,NC,Lean Dem,REP,True,True
+2026G-ME-G-S-0,Maine,ME,Lean Rep,REP,True,True
+2026G-OH-P-S-0,Ohio,OH,Lean Rep,REP,True,True
+2026G-AK-G-S-0,Alaska,AK,Lean Rep,REP,True,True
+2026G-IA-G-S-0,Iowa,IA,Lean Rep,REP,True,True
+2026G-TX-G-S-0,Texas,TX,Lean Rep,REP,True,True
+2026G-FL-P-S-0,Florida,FL,Likely Rep,REP,False,False
+2026G-AR-G-S-0,Arkansas,AR,Likely Rep,REP,False,False
+2026G-ID-G-S-0,Idaho,ID,Likely Rep,REP,False,False
+2026G-KS-G-S-0,Kansas,KS,Likely Rep,REP,False,False
+2026G-LA-G-S-0,Louisiana,LA,Likely Rep,REP,False,False
+2026G-MS-G-S-0,Mississippi,MS,Likely Rep,REP,False,False
+2026G-MT-G-S-0,Montana,MT,Likely Rep,REP,False,False
+2026G-NE-G-S-0,Nebraska,NE,Likely Rep,REP,False,False
+2026G-OK-G-S-0,Oklahoma,OK,Likely Rep,REP,False,False
+2026G-SC-G-S-0,South Carolina,SC,Likely Rep,REP,False,False
+2026G-SD-G-S-0,South Dakota,SD,Likely Rep,REP,False,False
+2026G-TN-G-S-0,Tennessee,TN,Likely Rep,REP,False,False
+2026G-WV-G-S-0,West Virginia,WV,Likely Rep,REP,False,False
+2026G-WY-G-S-0,Wyoming,WY,Likely Rep,REP,False,False
+2026G-KY-G-S-0,Kentucky,KY,Likely Rep,REP,False,False
+2026G-AL-G-S-0,Alabama,AL,Likely Rep,REP,False,False
