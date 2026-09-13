@@ -1,3 +1,3 @@
-key,state,state_code,state_district,district,geo_id,rating,incumbent_party,is_battleground,is_key_race,dem_candidate,dem_pct,rep_candidate,rep_pct,other_candidates
-2026G-NH-G-H-1,New Hampshire,NH,NH01,01,3301,Lean Dem,DEM,True,True,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
-2026G-NH-G-H-2,New Hampshire,NH,NH02,02,3302,Likely Dem,DEM,False,False,DEMOCRATIC CANIDATE,,REPUBLICAN CANIDATE,,
+key,state,state_code,state_district,district,geo_id,rating,incumbent_party,is_battleground,is_key_race,other_candidates
+2026G-NH-G-H-1,New Hampshire,NH,NH01,01,3301,Lean Dem,DEM,True,True,
+2026G-NH-G-H-2,New Hampshire,NH,NH02,02,3302,Likely Dem,DEM,False,False,
